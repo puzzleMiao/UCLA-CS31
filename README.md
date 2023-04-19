@@ -22,7 +22,7 @@ Introduction to Computer Science at UCLA using C++. Several of these projects ha
 Basic experimenting with C++ and an IDE. The project asked for a compile, logic, and runtime error to be created within given code.
 
 # Project 2
-The project calculates the suggested fine for a defendant convicted of fraud in the college admissions scandal. Faking athletic credentials results in a more serious punishment and the rates are set to those in the project specification. The goal was to manage if, else, and else if statements in C++.
+The goal was to manage if, else, and else if statements in C++.
 
 # Project 3
 Using a premade utilities file that created an array for a drawing grid, the objective for this project was to create an ASCII drawing application. Commands include "h" for horizontal lines, "v" for vertical lines, "c" for clearing the board, "f" for drawing in the foreground, and "b" for drawing in the background. A command line was required in this project where each command would be parsed and their respective functions used.
@@ -37,4 +37,4 @@ The flowers and bee game is a guessing based word game. A word is randomly chose
 This project focused on an introduction to pointers, how to use them with arrays and brackets, and how to use the "->" operator.
 
 # Project 7
-The class's final project involved a top down survival game titled "Bad Blood." The goal is to eliminate all the zombies on the board. THe player can move via one of the direction keys "n/e/s/w" or place a poison vial "x". When a vampire lands on a poison tile, its movement will become slowed and the tile will be cleared. If it lands on a second poison tile, it will die and the tile will be cleared.
+The class's final project involved a top down survival game titled "Bad Bunny." The goal is to eliminate all the rabbits on the board. THe player can move via one of the direction keys "n/e/s/w" or place a poison carrot "c". When a rabbit lands on a poison tile, its movement will become slowed and the tile will be cleared. If it lands on a second poison tile, it will die and the tile will be cleared.
